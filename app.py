@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('first appe')
+st.title('first appe by nikita')
 
 username = st.text_input('give me your name')
 
